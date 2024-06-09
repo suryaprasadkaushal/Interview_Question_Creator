@@ -1,17 +1,26 @@
 Question,Answer
-1. What is the main goal of the Sustainable Development Goals (SDGs) mentioned in the text?,The main goal of the Sustainable Development Goals (SDGs) mentioned in the text is to end extreme poverty in all forms by 2030.
-2. How has the international community made progress in reducing extreme poverty in the past 15 years?,"In the past 15 years, the international community has made progress in reducing extreme poverty by cutting it in half."
-3. What are some of the key areas of focus in the SDGs related to health and well-being?,"Some of the key areas of focus in the Sustainable Development Goals (SDGs) related to health and well-being include:
-1. Ensuring healthy lives and promoting well-being for all at all ages.
-2. Achieving gender equality and empowering all women and girls.
-3. Ensuring access to affordable, reliable, sustainable, and modern energy for all.
-4. Promoting sustained, inclusive, and sustainable economic growth, full and productive employment, and decent work for all."
-4. How has progress been made in achieving universal primary education according to the text?,"According to the text, progress has been made in achieving universal primary education since 2000. The total enrollment rate in developing regions has reached 91%, which is considered a significant achievement."
-5. What are some of the challenges and solutions mentioned in the text related to achieving gender equality and empowering women and girls?,"Some of the challenges mentioned in the text related to achieving gender equality and empowering women and girls include gross inequalities in work and wages, unpaid ""women's work"" such as child care and domestic work, and discrimination in public decision-making. 
+1. What is Python known for being able to build?,Python is known for being able to build anything since it is a general-purpose programming language.
+2. Where can you download Python packages for data science?,You can download Python packages for data science from the official Python website at https://www.python.org/downloads/.
+3. What is the file extension for Python scripts?,"The file extension for Python scripts is "".py""."
+4. How can you generate output from a Python script?,You can generate output from a Python script by using the `print()` function.
+5. How can you calculate BMI in Python?,"To calculate BMI in Python, you can use the formula: 
 
-Some solutions mentioned in the text include the increase in girls' education since 2000, reaching gender parity in primary education in most regions, and the rise in the percentage of women getting paid for their work. The Sustainable Development Goals aim to build on these achievements to ensure an end to discrimination against women and girls everywhere."
-"6. Why is access to clean drinking water and sanitation important, and what are some of the challenges mentioned in the text?","Access to clean drinking water and sanitation is crucial for human health and well-being. It helps prevent waterborne diseases, ensures proper hygiene, and promotes overall health. However, the text mentions that more than 40 percent of people around the world face water scarcity, and this number is expected to increase due to climate change. Without access to clean water, people are at risk of health issues and environmental degradation. The text also highlights that if current trends continue, by 2050, at least one in four people may face recurring water shortages. This emphasizes the urgent need to ensure availability and sustainable management of water and sanitation for all."
-"7. How has access to electricity improved globally, and what are some of the challenges related to energy consumption mentioned in the text?","Access to electricity globally has improved significantly between 1990 and 2010, with 1.7 billion more people gaining access during that time. This progress is something to be proud of. However, as the world's population continues to grow, more people will require affordable energy for various purposes. The challenges related to energy consumption mentioned in the text include the negative impact of fossil fuels and greenhouse gas emissions on the climate, leading to significant problems worldwide. To address these challenges, the text suggests becoming more energy-efficient and investing in clean energy sources like solar and wind to meet electricity needs while protecting the environment."
-8. How does the text address the importance of economic growth and decent work for all?,"The text addresses the importance of economic growth and decent work for all by highlighting the need for policies that encourage entrepreneurship, job creation, and the eradication of forced labor, slavery, and human trafficking. It also emphasizes the goal of achieving decent work for all women and men by 2030. Additionally, it mentions the growth of the middle class worldwide and the importance of job growth keeping pace with the growing labor force."
-"9. Why is it important to promote sustainable consumption and production patterns, and what are some of the suggested actions in the text?","It is important to promote sustainable consumption and production patterns to ensure that natural resources are preserved for future generations and to reduce the negative impact on the environment. Some suggested actions in the text include managing natural resources more efficiently, reducing and recycling waste, cutting per capita food waste globally, and encouraging responsible consumption patterns."
-10. What are some of the urgent actions needed to combat climate change and its impacts according to the text?,"Some urgent actions needed to combat climate change and its impacts according to the text include reducing the loss of life and property by helping vulnerable regions become more resilient, limiting the increase in global mean temperature to two degrees Celsius above pre-industrial levels, and working together as countries to meet this urgent challenge."
+```python
+bmi = weight / height ** 2
+```
+
+Where `weight` is the weight in kilograms and `height` is the height in meters. This formula calculates the Body Mass Index (BMI) based on weight and height."
+6. What is the importance of reproducibility in coding?,"Reproducibility in coding is important because it ensures that the results of a program or analysis can be replicated by others or by the same person at a later time. This is crucial for transparency, collaboration, and verification of results in data analysis and scientific research. By making your code reproducible, you can easily share your work with others, verify your own results, and build upon existing work without having to start from scratch."
+7. What are the different types of variables in Python?,"In Python, there are different types of variables based on the data they hold. The main variable types in Python are:
+1. Integer (int): Whole numbers without decimal points.
+2. Float (float): Numbers with decimal points.
+3. String (str): Textual data enclosed in single or double quotes.
+4. Boolean (bool): Represents True or False values.
+These are the basic variable types in Python."
+8. What are the different Python types mentioned in the text?,"The different Python types mentioned in the text are:
+- float
+- int
+- str
+- bool"
+9. How does Python handle different types in operations?,"Python handles different types in operations by automatically converting them to a common type when performing operations. For example, when you add an integer to a float, Python will convert the integer to a float before performing the addition. Similarly, when you concatenate a string with an integer, Python will convert the integer to a string before concatenating them. This automatic type conversion allows Python to perform operations smoothly across different data types."
+10. What is the result of the operation '2 + 3' in Python?,The result of the operation '2 + 3' in Python is 5.
